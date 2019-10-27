@@ -25,7 +25,7 @@ const Home = () => (
                   <div className="left-nav w-col w-col-6 w-col-small-6 w-col-tiny-6">
                       <a className="w-inline-block" href="/">
                           <img className="logo"
-                              src="http://uploads.webflow.com/52f134147711748d260004da/52f175d20128ab830c0001c0_space-logo.svg"
+                              src="logo.png"
                               width="37" />
                           <div className="brand">myelin bracelet</div>
                       </a>
